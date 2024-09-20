@@ -4,7 +4,7 @@ La página fue creada con el propósito de establecer una sólida presencia en e
 
 Además, Elevadores Krasa cuenta con una imagen corporativa, respaldada por el uso de dominios de correos electrónicos profesionales, tales como *[contacto@elevadoreskrasa.com](contacto@elevadoreskrasa.com)*
 
-De igual forma, los usuarios pueden acceder al sitio desde *[www.elevadoreskrasa.com](www.elevadoreskrasa.com)*
+De igual forma, los usuarios pueden acceder al sitio desde *[www.elevadoreskrasa.com](https://www.elevadoreskrasa.com)*
 
 *En el ámbito técnico, la idea es implementar JavaScript para mejorar la navegación y las interacciones, crear un servidor de correo electrónico propio para facilitar el contacto con clientes potenciales y buscar maneras de minimizar el gasto de recursos.*
 
